@@ -1,0 +1,35 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.3.1",
+    "express-validator": "^7.1.0",
+    "install": "^0.13.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mailtrap": "^3.4.0",
+    "mailtrap-client": "^1.1.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "node-cache": "^5.1.2",
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4",
+    "npm": "^10.8.2",
+    "object-mapper": "^6.2.0",
+    "sanitize-html": "^2.13.0",
+    "winston": "^3.13.1"
+  }
+}
